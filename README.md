@@ -1,4 +1,4 @@
-# ChatTTS-Practice
+# ChatTTS-Practice2
 > [!TIP]
 > 没有fastapi的版本，直接启动gradio界面
 ## 项目运行
