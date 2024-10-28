@@ -3,7 +3,7 @@
 > 没有fastapi的版本，直接启动gradio界面
 ## 项目运行
 ```bash
-python demo.py
+python demo.py 
 ```
 
 
